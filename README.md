@@ -23,12 +23,11 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
-<a href=" https://twitter.com/Arya_1119?t=M1zIZWx5uTyEb_L2eu9_Gw&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shyam_07_05" height="30" width="40" /></a>
+<a href="https://twitter.com/Arya_1119?t=M1zIZWx5uTyEb_L2eu9_Gw&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shyam_07_05" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/arya-patel-765549210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shyam-patel-536508191" height="30" width="40" /></a>
 <a href="https://leetcode.com/aryapatel1119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shyam_patel_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aryapatel1119" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shyam0705" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aryapatel1119" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Arya1119" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Arya1119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shyam0705202" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/codestudio/profile/c444c76b-eaa9-49c2-abdc-3689d1cb459a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shyam0705202" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aryapatel1119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryapatel" height="30" width="40" /></a>
 </p>
 <br>

@@ -8,7 +8,7 @@
   
 - 🌱  I’m currently learning **web development**
 
-- 🔭  Area of Interest in **Development** and **Blockchain**
+- 🔭  Area of Interest in **Web Development**
   
 - 👯 I’m looking to collaborate on **Project**
   

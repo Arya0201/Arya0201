@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arya Patel</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=3'rd+year+IT+student+at+Charusat+University.;I+am+a+Fast+Learner"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=IT+student+at+Charusat+University.;I+am+a+Fast+Learner"></a>
 </p>
 <h2> About Me</h2>
 
